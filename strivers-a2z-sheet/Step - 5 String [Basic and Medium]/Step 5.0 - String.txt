@@ -1,0 +1,7 @@
+
+
+
+String has extremely hard problems for beginners in its hard section, 
+so it is covered in the later half
+String has lesser problems, becausemost of the string problems have hard concepts like
+ DP or others which are covered in different topics.
